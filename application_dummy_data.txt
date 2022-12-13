@@ -1,0 +1,24 @@
+INSERT INTO public."Applications" (id, agent_name, studentid, passport, student_name, student_gender, univ, intake, country_id, country, state_id, state, city_id, city, course_id, course, application_status_id, application_status, student_dob, ug_pg, eng_test_type, learning, reading, writing, speaking, overall, sp_father, sp_mother, sp_gf, sp_gm, sp_uncle, score_inter, score_graduation, gte, visa, app_status, "createdAt", "updatedAt") VALUES
+(1, '7 Continents Educational Consultants', '30415712', 'V2649076', 'Raman', 'M', 'Feduni', 'Jul-22', 1, 'India', 8, 'Haryana', 112, 'Kaithal', 1, 'BIT', 21, 'Visa Refusal', '2003-11-11', 'UG', 'IELTS', 3, 2, 1, 1, 7, '1', '1', '1', '1', '0', 300, 300,'10 Days', '25 Days', 'Visa grant', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(2, '7 Continents Educational Consultants', '30414355', 'U9366668', 'Harmanjot Singh', 'M', 'Feduni', 'Jul-22', 1, 'India', 22, 'Punjab', 312, 'Chandigarh', 11, 'MPA', 20, 'Visa grant', '1998-01-07', 'PG', 'IELTS', 2, 2, 2, 1, 7, '1', '1', '0', '0', '0', 275, 0, '10 Days', '25 Days', 'GTE Rejected', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(3, '7 Continents Educational Consultants', '30547892', 'T3523835', 'Navneet Kaur', 'F', 'Feduni', 'Jul-22', 1, 'India', 22, 'Punjab', 321, 'Patiala', 9, 'M.Tech(IB)', 2, 'App. Rejected', '1996-07-18', 'PG', 'IELTS', 2, 1, 1, 2, 6, '1', '1', '0', '0', '1', 300, 330,  '10 Days', '25 Days','Visa grant', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(4, '7 Continents Educational Consultants', '35478952', 'U7547997', 'Vicky', 'M', 'Feduni', 'Jul-22', 1, 'India', 8, 'Haryana', 103, 'Ambala', 7, 'M.Tech(SE)', 3, 'App - Waiting for Docs', '1997-05-24', 'PG', 'IELTS', 1, 1, 1, 1, 4, '0', '1', '0', '0', '0', 325, 345, '10 Days', '25 Days',  'GTE withdrawn', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(5, '7 SEAS EDUCATIONAL & IMMIGRATION CONSULTANTS', '30408032', 'U9321657', 'Mr  Jobandeep Singh', 'M', 'Feduni', 'Jul-22', 1, 'India', 22, 'Punjab', 318, 'Kapurthala', 6, 'BB', 24, 'Enrolled', '2002-04-21', 'UG', 'IELTS', 1, 2, 1, 1, 5, '0', '1', '0', '0', '0', 256, 360,  '10 Days', '25 Days', 'GTE Rejected', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(6, '7 SEAS EDUCATIONAL & IMMIGRATION CONSULTANTS', '30417126', 'U4514885', 'JESICA LAKHWINDER SINGH GYANI', 'F', 'Feduni', 'Jul-22', 1, 'India', 7, 'Gujarat', 77, 'Ahmedabad', 2, 'BIT(BIS)', 7, 'Offer Letter Issued', '2002-07-24', 'UG', 'IELTS', 2, 1, 1, 1, 5, '1', '0', '0', '0', '0', 215, 345, '10 Days', '25 Days', 'GTE Rejected', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(7, '7 SEAS EDUCATIONAL & IMMIGRATION CONSULTANTS', '32569875', 'V3328655', ' Mandeep Kaur', 'F', 'Feduni', 'Jul-22', 1, 'India', 22, 'Punjab', 310, 'Amritsar', 8, 'M.Tech(ESBA)', 2, 'App. Rejected', '1997-03-02', 'PG', 'IELTS', 4, 1, 1, 1, 7, '1', '0', '0', '0', '0', 310, 350, '10 Days', '25 Days', 'Visa grant', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(8, '7 SEAS EDUCATIONAL & IMMIGRATION CONSULTANTS', '30412831', 'U4876673', 'Sanampreet Singh', 'M', 'Feduni', 'Jul-22', 1, 'India', 22, 'Punjab', 317, 'Jalandhar', 3, 'BIT(NS)', 22, 'Visa Withdrawn', '2003-03-31', 'UG', 'IELTS', 1, 1, 2, 4, 8, '0', '1', '1', '0', '0', 305, 285, '10 Days', '25 Days', 'Visa grant', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(9, '7 SEAS EDUCATIONAL & IMMIGRATION CONSULTANTS', '30412831', 'U4876673', 'Sanampreet Singh', 'M', 'Feduni', 'Jul-22', 1, 'India', 22, 'Punjab', 317, 'Jalandhar', 3, 'BIT(NS)', 24, 'Enrolled', '2003-03-31', 'UG', 'IELTS', 1, 2, 2, 2, 7, '1', '1', '1', '0', '1', 195, 0, '10 Days', '25 Days', 'GTE Rejected', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(10, 'A. E. Global Pvt. Ltd.', '30410728', '9621839', 'ANAMIKA RANA PRADHAN', 'F', 'Feduni', 'Jul-22', 2, 'Nepal', 40, 'Bagmati', 580, 'Bhaktapur ', 10, 'MBA(HSM)', 24, 'Enrolled', '1996-10-06', 'PG', 'IELTS', 3, 2, 1, 1, 7, '0', '1', '0', '0', '0', 300, 335,  '10 Days', '25 Days', 'Visa grant', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(11, 'A. E. Global Pvt. Ltd.', '30412436', '12415686', 'Abinash shah', 'M', 'Feduni', 'Jul-22', 2, 'Nepal', 44, 'Sudurpashchim', 622, 'Achham ', 11, 'MPA', 24, 'Enrolled', '1999-04-11', 'PG', 'IELTS', 1, 1, 2, 5, 9, '1', '0', '0', '0', '0', 325, 310, '10 Days', '25 Days', 'Visa grant', '2022-11-28 15:45:58', '2022-11-28 15:45:58'),
+
+(12, 'Abroad Education Consultants', '35689754', 'V5847984', 'Dilip Kumar Kolanu', 'M', 'Feduni', 'Jul-22', 1, 'India', 26, 'Telangana', 393, 'Hyderabad', 9, 'M.Tech(IB)', 4, 'App. Withdrawn', '2000-03-18', 'PG', 'IELTS', 1, 1, 1, 1, 4, '1', '1', '1', '0', '1', 320, 325 '10 Days', '25 Days', , 'Visa grant','2022-11-28 15:45:58', '2022-11-28 15:45:58');
